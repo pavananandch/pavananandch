@@ -28,9 +28,9 @@
 <h2><i>Tech Stack</i></h2>
 
 <p>
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" />
-    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="springboot" />
-    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="hibernate" />
+    <img src="https://img.shields.io/badge/nodejs%23ED8B00.svg?style=for-the-badge&logo=nodejs&logoColor=white" alt="nodejs" />
+    <img src="https://img.shields.io/badge/angular%236DB33F.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
+    <img src="https://img.shields.io/badge/react?style=for-the-badge&logo=react&logoColor=white" alt="react" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
