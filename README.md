@@ -81,7 +81,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavananandch&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
 
 ### ⚙️ &nbsp;GitHub Analytics
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=pavananandch&theme=react-dark&hide_border=false&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/pavananandch)
+
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)]
 
 
 <div align="center">
