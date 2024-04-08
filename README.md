@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning Springboot and other backend frameworks
+- 🌱 I’m currently a full stack JavaScript developer
 
 - 📫 How to reach me **saipavan.anand@gmail.com**
 
@@ -28,7 +28,7 @@
 <h2><i>Tech Stack</i></h2>
 
 <p>
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+    <img src="https://img.shields.io/badge/nodejs?style=for-the-badge&logo=nodedotjs&logoColor=#339933" alt="NodeJS" />
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="springboot" />
     <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="hibernate" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
