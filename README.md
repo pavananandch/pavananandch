@@ -19,7 +19,7 @@
 
 - 🎓 Know about experiences   <a href="https://drive.google.com/file/d/1oh1o53tqNR7b_WiOURaNTWYFzolcfXiM/view?usp=sharing">Resume</a>
 
-- 😎 Ask me about MEAN
+- 😎 Ask me about MEAN/MERN
 
 - ⚡ Fun fact:- The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion.
 
